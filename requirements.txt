@@ -1,6 +1,13 @@
 streamlit
-google-generativeai
-openai
-arxiv
+python-dotenv
+requests
 pypandoc
 python-docx
+reportlab
+fpdf
+arxiv
+openai
+google-generativeai
+PyPDF2
+beautifulsoup4
+lxml
